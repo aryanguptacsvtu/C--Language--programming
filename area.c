@@ -7,7 +7,7 @@ int main()
     scanf("%f", &r);
     area = PI * r * r;
 
-    printf("Area of circle is:%f\n", r);
+    printf("Area of circle is:%f\n", area);
 
     return 0;
 }
