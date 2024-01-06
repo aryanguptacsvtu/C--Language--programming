@@ -7,9 +7,10 @@ int main()
     {
         scanf("%d", &a[i]);
     }
+    printf("Alternate elements are:");
     for (i = 0; i < 10; i = i + 2)
     {
-        printf("Alternate elements are:%d\n", a[i]);
+        printf("%d\n", a[i]);
     }
     return 0;
 }
