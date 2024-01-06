@@ -1,2 +1,4 @@
 *.exe
 a.exe
+.vscode/tasks.json
+.vscode/tasks.json
